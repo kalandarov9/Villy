@@ -1,0 +1,7 @@
+{
+  "name": "Nexus P2P Mutual Insurance",
+  "description": "A futuristic AI-powered mutual insurance platform for transparent, decentralized risk sharing and rapid claim processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
